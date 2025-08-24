@@ -59,7 +59,7 @@ Module Name: time_capsule
 
 ### Network Information
 - **Blockchain**: Aptos
-- **Network**: Mainnet
+- **Network**: Devnet
 - **Language**: Move
 - **Deployment Status**: Active
 
