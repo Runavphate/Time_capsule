@@ -1,0 +1,8 @@
+{
+    "lspConfig.servers": [
+        {
+          "language": "move",
+          "cmd": "C:\\Users\\Runu\\Downloads\\move-artifacts\\move.exe",
+        },
+    ]
+}

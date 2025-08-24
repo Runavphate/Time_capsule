@@ -1,0 +1,15 @@
+[package]
+name = "time_capsule"
+version = "1.0.0"
+authors = []
+
+[addresses]
+time_capsule_addr = "0x6b175b96ec8b802aafbd1207774bcc34341b1c0bddfbc6a1e9ef1fb5118be57a"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
